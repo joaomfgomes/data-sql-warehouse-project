@@ -55,7 +55,7 @@ These reports help drive strategic decisions with real business metrics.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 data-warehouse-project/
@@ -83,13 +83,13 @@ data-warehouse-project/
 
 ---
 
-## 🛡️ License
+## License
 
 This project is licensed under the **MIT License**. You're free to use, modify, and share it with proper credit.
 
 ---
 
-## 🌟 About Me
+## About Me
 
 Hi, I'm **João Miguel** — an **aspiring data professional** passionate about transforming raw data into valuable insights.
 This project is part of my journey to master modern data practices and share them with others.
